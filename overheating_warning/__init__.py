@@ -1,0 +1,1 @@
+"""Windows CPU temperature monitor."""
